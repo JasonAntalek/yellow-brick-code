@@ -1,0 +1,12 @@
+CODE INSTANCE HANDOFF BLOCK
+Chapter 2 — Threshold II: Pell & the Crossroads
+
+Exact relative file paths produced | Resolution & aspect ratio
+assets/ref/pell-anchor.png | 1280 × 720, 16:9
+assets/ch02/stills/ch02-crossroads-diagrams.png | 1280 × 720, 16:9
+assets/ch02/stills/ch02-pell-idle-keyframe.png | 1280 × 720, 16:9
+assets/ch02/stills/ch02-pell-lookup-keyframe.png | 1280 × 720, 16:9
+assets/ch02/video/pell-idle-loop.mp4 | 1280 × 720, 16:9 | 4.000 s, 96 frames, 24 fps, silent H.264 | seamless loop
+assets/ch02/video/pell-look-up.mp4 | 1280 × 720, 16:9 | 3.000 s, 72 frames, 24 fps, silent H.264 | play once; hold final gaze
+
+At the crossroads, reveal the diagrams. At Pell’s stage, loop the idle clip over the idle keyframe. On the reader’s Field response, play the look-up once and hold the lookup keyframe. With reduced motion, switch between the two PNGs.

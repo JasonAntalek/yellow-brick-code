@@ -1,0 +1,11 @@
+CODE INSTANCE HANDOFF BLOCK
+Threshold 00 — The Return | Ruby slippers → work boots, cracked emerald spectacles retained
+1280 × 720 · 16:9 · same four page paths
+
+assets/ch00/stills/ch00-relics-idle-keyframe.png   | PNG | ruby slippers, emerald spectacles and prairie grass
+assets/ch00/stills/ch00-relics-pickup-keyframe.png | PNG | boots standing in the slippers’ place, spectacles unchanged
+assets/ch00/video/prologue-idle-loop.mp4           | H.264 · 24 fps · silent · 4.000 s · 96 frames · loop
+assets/ch00/video/prologue-step-out.mp4            | H.264 · 24 fps · silent · 8.000 s · 192 frames · play once
+
+Keep the original page URL paths. On departure, let the exchange run to the video’s ended event. Its endpoint is planted boots with the hands withdrawn. Use the pickup PNG for the final hold or the reduced-motion state. The line about green glass is consistent with this revision.
+Hand continuity: both actions use Kaiya’s hands and cuffs from the slipper-removal take. Side-by-side: media-production/ch00-hand-continuity.jpg.

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "ferros-anchor",
+    "path": "assets/ref/ferros-anchor.png",
+    "aspect_ratio": "16:9",
+    "references": [],
+    "duration_s": null,
+    "prompt": "FERROS DNA: An ancient, articulated humanoid figure crafted from heavy tarnished brass, darkened bronze, and weathered copper plates. Not a sleek sci-fi robot and not a tin funnel-hat cartoon. He has the noble, weathered proportions of an old artisan. His chest features an open, ornate brass rib-lattice revealing clockwork gears and a heavy swinging brass pendulum instead of a heart. His face is sculpted, worn bronze with deep-set eyes made of polished black obsidian that catch warm amber pinpricks of light. Stains of warm machine oil and old rain on his joints.\n\nCharacter reference portrait, squarely framed from waist to crown against unlit cedar shadow. The face and frontal rib-lattice are both readable: one solid teardrop brass pendulum on a straight narrow rod, a single visible adjustment gear to his right. Worn hand-chased cheek plates, artisan hands, matte uneven metal. Warm daylight grazes from high camera left. Keep the face and chest in the central half, the perimeter empty and deeply shadowed to the tone of dark paper (#11100e). No lettering, lettering plates, hat or props.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render."
+  },
+  {
+    "id": "kaiya-anchor",
+    "path": "assets/ref/kaiya-anchor.png",
+    "aspect_ratio": "16:9",
+    "references": [],
+    "duration_s": null,
+    "prompt": "KAIYA DNA: A grounded woman in her early thirties with watchful, intelligent dark eyes that have outgrown naivety. Unruly dark hair tucked into the collar of a weathered charcoal-wool field coat over faded work boots dusty from dry scrub grass. No gingham dress, no sparkling ruby slippers—her boots have worn leather soles with a faint, almost invisible thread of dull ochre metal stitched into the welt. Her expression carries quiet sovereignty—neither wide-eyed wonder nor theatrical heroics.\n\nA still character portrait at the roadside, full figure seated on a low step, forearms resting on her knees, with one scuffed leather boot in the foreground. Her face is the point of focus, eyes level and composed, no smile. Natural charcoal wool and old boot leather, utterly unadorned. A little bone-colored dry grass catches the ochre sidelight from high left. Hold her, her boots, and the light within the central half; let all four borders melt into uncluttered #11100e shadow. No writing or symbols.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render."
+  },
+  {
+    "id": "curb-seam",
+    "path": "assets/ch01/stills/ch01-curb-seam.png",
+    "aspect_ratio": "16:9",
+    "references": [
+      "kaiya-anchor"
+    ],
+    "duration_s": null,
+    "prompt": "KAIYA DNA: A grounded woman in her early thirties with watchful, intelligent dark eyes that have outgrown naivety. Unruly dark hair tucked into the collar of a weathered charcoal-wool field coat over faded work boots dusty from dry scrub grass. No gingham dress, no sparkling ruby slippers—her boots have worn leather soles with a faint, almost invisible thread of dull ochre metal stitched into the welt. Her expression carries quiet sovereignty—neither wide-eyed wonder nor theatrical heroics.\n\nFrom the reference take only the traveler’s worn boot and its welt, and reframe at ground level. One close-cropped boot enters the center from the dry scrub just as the toe tests the edge of the first ochre brick. A hairline fissure interrupts a thin patch of honey-colored reflected light on the glaze. The delayed light is almost plausible, not an electronic glitch. Photograph the contact point with raking sidelight, just a few brittle stems in focus and rough stone underneath. Keep all four outer edges empty in deep #11100e shadow. No face, city street, glyphs or legible text.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render."
+  },
+  {
+    "id": "ferros-idle",
+    "path": "assets/ch01/stills/ch01-ferros-idle-keyframe.png",
+    "aspect_ratio": "16:9",
+    "references": [
+      "ferros-anchor"
+    ],
+    "duration_s": null,
+    "prompt": "FERROS DNA: An ancient, articulated humanoid figure crafted from heavy tarnished brass, darkened bronze, and weathered copper plates. Not a sleek sci-fi robot and not a tin funnel-hat cartoon. He has the noble, weathered proportions of an old artisan. His chest features an open, ornate brass rib-lattice revealing clockwork gears and a heavy swinging brass pendulum instead of a heart. His face is sculpted, worn bronze with deep-set eyes made of polished black obsidian that catch warm amber pinpricks of light. Stains of warm machine oil and old rain on his joints.\n\nUse this exact artisan: preserve his face, lattice, gear and pendulum from the reference. Fixed tripod at seated eye level, frontal medium close-up from crown to lap, centered. Ferros sits on the weathered sun-baked ochre stone mile-marker; his head is bowed over his work, eyes shadowed. His right hand (viewer’s left) holds a small dark iron open-ended wrench against the adjustment gear beside the lattice. The fingers, tool, and single swinging pendulum are visible and separate; catch the pendulum near a turning point. Upper-left raking amber daylight. Set the head, tool, rib-lattice, and a sliver of the stone within the central safe area. Dark, still, unadorned #11100e perimeter, no writing. Keep the wide horizontal 16:9 composition of the landscape guide; extend the scene naturally through its open side space. Let the low, rectangular, rain-softened stone seat be visible on either side of his hips. His bowed chin tucks toward his sternum; his gaze goes down to the tool, never to the viewer. Keep the entire crown in frame with clear dark air above it.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render."
+  },
+  {
+    "id": "ferros-lookup",
+    "path": "assets/ch01/stills/ch01-ferros-lookup-keyframe.png",
+    "aspect_ratio": "16:9",
+    "references": [
+      "ferros-idle"
+    ],
+    "duration_s": null,
+    "prompt": "FERROS DNA: An ancient, articulated humanoid figure crafted from heavy tarnished brass, darkened bronze, and weathered copper plates. Not a sleek sci-fi robot and not a tin funnel-hat cartoon. He has the noble, weathered proportions of an old artisan. His chest features an open, ornate brass rib-lattice revealing clockwork gears and a heavy swinging brass pendulum instead of a heart. His face is sculpted, worn bronze with deep-set eyes made of polished black obsidian that catch warm amber pinpricks of light. Stains of warm machine oil and old rain on his joints.\n\nEdit only his head and eyes and the position of his pendulum in the supplied idle frame. Lift the chin to level until the polished black eyes meet the viewer directly; each eye catches a tiny amber reflection. The wrench rests in his fingers, precisely against the same gear. The pendulum hangs straight down and still. Preserve his identity, body, hands, seated pose, mile-marker, framing, lens, focus, camera height, light, grade, uncluttered #11100e perimeter and every background detail. The gesture is one of attention, not alarm.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render."
+  },
+  {
+    "id": "idle-loop",
+    "path": "assets/ch01/video/ferros-idle-loop.mp4",
+    "aspect_ratio": "16:9",
+    "references": [
+      "ferros-idle",
+      "ferros-idle"
+    ],
+    "duration_s": 4,
+    "prompt": "FERROS DNA: An ancient, articulated humanoid figure crafted from heavy tarnished brass, darkened bronze, and weathered copper plates. Not a sleek sci-fi robot and not a tin funnel-hat cartoon. He has the noble, weathered proportions of an old artisan. His chest features an open, ornate brass rib-lattice revealing clockwork gears and a heavy swinging brass pendulum instead of a heart. His face is sculpted, worn bronze with deep-set eyes made of polished black obsidian that catch warm amber pinpricks of light. Stains of warm machine oil and old rain on his joints.\n\nOne unbroken fixed-camera 4-second cycle, starting and ending in precisely the supplied idle posture. Keep the head bowed and the eyes in shadow throughout. The single heavy pendulum behind the ribs makes one measured oscillation and returns to its starting angle at the turning point; the artisan’s fingertips work the iron wrench through a tiny slow turn and ease it back. The rest of the frame stays still; no breathing camera, flicker, change of exposure or sound. Retain the dark #11100e perimeter.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render."
+  },
+  {
+    "id": "look-up",
+    "path": "assets/ch01/video/ferros-look-up.mp4",
+    "aspect_ratio": "16:9",
+    "references": [
+      "ferros-idle",
+      "ferros-lookup"
+    ],
+    "duration_s": 3,
+    "prompt": "FERROS DNA: An ancient, articulated humanoid figure crafted from heavy tarnished brass, darkened bronze, and weathered copper plates. Not a sleek sci-fi robot and not a tin funnel-hat cartoon. He has the noble, weathered proportions of an old artisan. His chest features an open, ornate brass rib-lattice revealing clockwork gears and a heavy swinging brass pendulum instead of a heart. His face is sculpted, worn bronze with deep-set eyes made of polished black obsidian that catch warm amber pinpricks of light. Stains of warm machine oil and old rain on his joints.\n\nA single continuous three-second shot on a locked tripod. Start exactly on the head-down idle frame. First the fingers stop turning the wrench; as the pendulum damps to vertical, the chin lifts naturally and the black obsidian eyes meet the lens. Reach the supplied level gaze by the last half-second and hold there in absolute stillness. The wrench stays against the same gear, the stone, light and camera remain fixed, and the #11100e perimeter stays empty. Silent; no cut or camera movement.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render."
+  }
+]

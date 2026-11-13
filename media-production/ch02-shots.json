@@ -1,0 +1,60 @@
+[
+  {
+    "id": "pell-anchor",
+    "path": "assets/ref/pell-anchor.png",
+    "aspect_ratio": "16:9",
+    "references": [],
+    "duration_s": null,
+    "prompt": "PELL DNA: A tall, lean, angular humanoid figure with the weathered grace of an exhausted scholar-vagabond, crafted from woven coarse linen, darkened burlap, and braided golden flax fibers threaded with fine hair-thin copper filaments that faintly catch warm amber light inside his collar. Not a goofy pumpkin-headed cartoon scarecrow. His face is finely sculpted, weathered porous canvas and stitched parchment with expressive, intelligent dark eyes ringed with faint warm amber irises. He wears a long coat stitched from weathered linen and faded antique ledger parchment covered in tiny, cramped sepia ink equations and geometric diagrams. Chalk dust and charcoal smudges on his knuckles.\n\nCanonical medium portrait of Pell at dusk. Quiet intelligent gaze, woven flax and faint copper filaments visible inside his ledger-parchment collar. A slender, tired, adult face with a discernible brow ridge and cheek planes hand-stitched out of natural canvas. Low warm lateral dusk light and matte paper. Deep #11100e perimeter shadows, no lettering or graphic text outside the small handwritten marks on his coat. Widescreen waist-up portrait.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render."
+  },
+  {
+    "id": "crossroads-diagrams",
+    "path": "assets/ch02/stills/ch02-crossroads-diagrams.png",
+    "aspect_ratio": "16:9",
+    "references": [],
+    "duration_s": null,
+    "prompt": "High-angle atmospheric close-up of weathered sun-baked ochre flagstones splitting at a dark four-way crossroads at nightfall. Scratched across the stone in white chalk and burnt willow charcoal are intricate probability trees, geometric matrices, and smudged mathematical branches. A stick of charred willow rests near the seam of the stone. Let a shallow cross of worn joints and diverging paved paths be legible under the multiple generations of marks: pressure changes, erased lines, charcoal caught in pores, small pools of muted last light. No people. Deep #11100e vignette darkness around all four edges.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render."
+  },
+  {
+    "id": "pell-idle",
+    "path": "assets/ch02/stills/ch02-pell-idle-keyframe.png",
+    "aspect_ratio": "16:9",
+    "references": [
+      "pell-anchor"
+    ],
+    "duration_s": null,
+    "prompt": "PELL DNA: A tall, lean, angular humanoid figure with the weathered grace of an exhausted scholar-vagabond, crafted from woven coarse linen, darkened burlap, and braided golden flax fibers threaded with fine hair-thin copper filaments that faintly catch warm amber light inside his collar. Not a goofy pumpkin-headed cartoon scarecrow. His face is finely sculpted, weathered porous canvas and stitched parchment with expressive, intelligent dark eyes ringed with faint warm amber irises. He wears a long coat stitched from weathered linen and faded antique ledger parchment covered in tiny, cramped sepia ink equations and geometric diagrams. Chalk dust and charcoal smudges on his knuckles.\n\nMaintain the wide shot and all aspects of the first supplied image: the same scholar crouched on the right, head bowed, hand holding a broken charred willow stick, with the left side empty and shadowed. One local change only: on the flat stone directly under the charcoal tip draw a visibly legible probability tree: a large fork splits into two and then four branching lines, one light chalk tree crossed by a newly added dark charcoal branch, with a smudged arc beneath. The second reference shows the material and marks of this same crossroads. Show actual drawn lines directly on the stone, the tip touching the end of the newest line. Retain his portrait, stick, hand, background, dusk sidelight, and the deep #11100e perimeter.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render."
+  },
+  {
+    "id": "pell-lookup",
+    "path": "assets/ch02/stills/ch02-pell-lookup-keyframe.png",
+    "aspect_ratio": "16:9",
+    "references": [
+      "pell-idle"
+    ],
+    "duration_s": null,
+    "prompt": "PELL DNA: A tall, lean, angular humanoid figure with the weathered grace of an exhausted scholar-vagabond, crafted from woven coarse linen, darkened burlap, and braided golden flax fibers threaded with fine hair-thin copper filaments that faintly catch warm amber light inside his collar. Not a goofy pumpkin-headed cartoon scarecrow. His face is finely sculpted, weathered porous canvas and stitched parchment with expressive, intelligent dark eyes ringed with faint warm amber irises. He wears a long coat stitched from weathered linen and faded antique ledger parchment covered in tiny, cramped sepia ink equations and geometric diagrams. Chalk dust and charcoal smudges on his knuckles.\n\nThe supplied crouching scene is the BEFORE frame. Create the visibly distinct AFTER frame of the same take. Fixed 16:9 camera and focal length, same right-side placement, light, coat and exact carved stone diagram. He is still crouched but straightens his neck and lifts his whole face so it is upright and frontal at eye level: chin out of his chest, pupils pointed straight into the lens, both dark eyes fully visible beneath relaxed brows, shoulders dropped in relief. Detach his empty working hand from its pinching pose. Let it rest palm up beside the marker with relaxed, visibly separated fingers. The SAME short broken black willow stick now lies flat horizontally on top of the stone, immediately beside the fork drawn on it, at least a finger width away from the open hand. The stick is clearly visible, casting a shallow contact shadow. Re-stage the hand, neck, and head fully; keep every other part of this shot continuous. Keep the left of the frame as quiet #11100e paper shadow.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render."
+  },
+  {
+    "id": "pell-idle-loop",
+    "path": "assets/ch02/video/pell-idle-loop.mp4",
+    "aspect_ratio": "16:9",
+    "references": [
+      "pell-idle",
+      "pell-idle"
+    ],
+    "duration_s": 4,
+    "prompt": "PELL DNA: A tall, lean, angular humanoid figure with the weathered grace of an exhausted scholar-vagabond, crafted from woven coarse linen, darkened burlap, and braided golden flax fibers threaded with fine hair-thin copper filaments that faintly catch warm amber light inside his collar. Not a goofy pumpkin-headed cartoon scarecrow. His face is finely sculpted, weathered porous canvas and stitched parchment with expressive, intelligent dark eyes ringed with faint warm amber irises. He wears a long coat stitched from weathered linen and faded antique ledger parchment covered in tiny, cramped sepia ink equations and geometric diagrams. Chalk dust and charcoal smudges on his knuckles.\n\nOne seamless cycle on a locked tripod, beginning and ending exactly on the supplied idle frame. Pell remains crouched with his head bowed. His hand makes small, restless, precise sketching movements with the charcoal stick, returning to its initial position. Dry flax fibers and faint amber filament-sparks inside his collar subtly breathe and rustle in the night air. Keep the stick in his hand, the camera, background and exposure still, and the left side and perimeter in deep #11100e shadow. Silent.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render."
+  },
+  {
+    "id": "pell-look-up",
+    "path": "assets/ch02/video/pell-look-up.mp4",
+    "aspect_ratio": "16:9",
+    "references": [
+      "pell-idle",
+      "pell-lookup"
+    ],
+    "duration_s": 3,
+    "prompt": "PELL DNA: A tall, lean, angular humanoid figure with the weathered grace of an exhausted scholar-vagabond, crafted from woven coarse linen, darkened burlap, and braided golden flax fibers threaded with fine hair-thin copper filaments that faintly catch warm amber light inside his collar. Not a goofy pumpkin-headed cartoon scarecrow. His face is finely sculpted, weathered porous canvas and stitched parchment with expressive, intelligent dark eyes ringed with faint warm amber irises. He wears a long coat stitched from weathered linen and faded antique ledger parchment covered in tiny, cramped sepia ink equations and geometric diagrams. Chalk dust and charcoal smudges on his knuckles.\n\nA single continuous movement between the pinned first and last frames. Pell stops sketching. His fingers relax and let the charred stick drop onto the flagstone. His chest exhales, his shoulders settle and he raises his head to lock eyes directly with the camera. A quiet release, then complete stillness holding the supplied final gaze. Once the stick falls it stays on the stone. Locked camera, unchanged composition, no change in exposure. Preserve the deep #11100e shadow space on the left and around all edges. Silent.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render."
+  }
+]

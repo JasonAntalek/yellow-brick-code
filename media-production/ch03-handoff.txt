@@ -1,0 +1,12 @@
+CODE INSTANCE HANDOFF BLOCK
+Chapter 3 — Threshold III: Vael & the Timberline
+
+Exact relative file paths produced | Resolution & aspect ratio
+assets/ref/vael-anchor.png | 1280 × 720, 16:9
+assets/ch03/stills/ch03-timberline-mist.png | 1280 × 720, 16:9
+assets/ch03/stills/ch03-vael-idle-keyframe.png | 1280 × 720, 16:9
+assets/ch03/stills/ch03-vael-lookup-keyframe.png | 1280 × 720, 16:9
+assets/ch03/video/vael-idle-loop.mp4 | 1280 × 720, 16:9 | 10.000 s, 240 frames, 24 fps, silent H.264 | seamless resting loop, slight ear and mane movement
+assets/ch03/video/vael-look-up.mp4 | 1280 × 720, 16:9 | 3.000 s, 72 frames, 24 fps, silent H.264 | play once; hold final gaze
+
+Show the timberline still on the approach. At Vael’s stage, loop the idle clip over the bowed keyframe. On the reader’s Field response, play the look-up clip once and hold the direct-gaze keyframe. For reduced motion, switch between the two keyframes.

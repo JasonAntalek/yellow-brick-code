@@ -1,0 +1,56 @@
+[
+  {
+    "id": "relics-idle",
+    "path": "assets/ch00/stills/ch00-relics-idle-keyframe.png",
+    "aspect_ratio": "16:9",
+    "references": [],
+    "duration_s": null,
+    "prompt": "KAIYA DNA: A grounded woman in her early thirties with watchful, intelligent dark eyes that have outgrown naivety. Unruly dark hair tucked into the collar of a weathered charcoal-wool field coat over faded work boots dusty from dry scrub grass. No gingham dress, no sparkling ruby slippers—her boots have worn leather soles with a faint, almost invisible thread of dull ochre metal stitched into the welt. Her expression carries quiet sovereignty—neither wide-eyed wonder nor theatrical heroics.\n\nEdit this existing film frame. Replace the two work boots, ONLY the boots, with a pair of beautifully aged deep-crimson ruby-glass-sequined slippers sitting in the exact same footprint, side by side, their toes pointing forward-left in the same direction as the boots. Antique dark red low pumps with a small bow or button of garnet glass across each rounded toe; tiny scuffed red sequins with warm intermittent highlights, old dusty silk, not a glossy ad. Two red slippers, absolutely NO boots. The prohibition in the wardrobe DNA is about what she wears, not these abandoned prop shoes. Preserve the ORIGINAL cracked emerald-green round spectacle lens, broken wire eyeglass frame and dried prairie grass in precisely the same positions on the left. No person. Fixed original low camera, same light and grading, permanent wood grain, no moving or rearranged props. Preserve the original stand of amber dust above the left side. Deep #11100e at the edges.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render.",
+    "source": "xAI edit of original green-spectacles work-boots still.",
+    "finishing": "Matte ruby slippers over the registered original clean wood plate. Add static contact and cast shadows."
+  },
+  {
+    "id": "relics-pickup",
+    "path": "assets/ch00/stills/ch00-relics-pickup-keyframe.png",
+    "aspect_ratio": "16:9",
+    "references": [],
+    "duration_s": null,
+    "prompt": "KAIYA DNA: A grounded woman in her early thirties with watchful, intelligent dark eyes that have outgrown naivety. Unruly dark hair tucked into the collar of a weathered charcoal-wool field coat over faded work boots dusty from dry scrub grass. No gingham dress, no sparkling ruby slippers—her boots have worn leather soles with a faint, almost invisible thread of dull ochre metal stitched into the welt. Her expression carries quiet sovereignty—neither wide-eyed wonder nor theatrical heroics.\n\nA still life of Kaiya's belongings in an empty room; the camera sees only objects on the floor. Low-angle cinematic close-up of dark weathered timber floorboards. A pair of empty, well-worn dark leather lace-up work boots stand together just right of center, their open collars nearly touching, both toes and both soles visible. A nearly invisible dull ochre metal thread stitched into one welt catches the warm grazing light. To the LEFT of the boots, in the lower middle-left foreground, one broken antique wire spectacle frame lies flat in a little dust. One rim still holds cracked emerald-green glass, clearly readable as green glass with a fracture; its other rim is broken and empty. A single dried stem of prairie scrub grass lies beside the frame. A narrow shaft of dusty late-afternoon light grazes these three relics from the upper left. Sparse tiny amber dust motes are suspended in the shaft. Low worn timber texture; warm, intimate, sober naturalism. No wearer, hand, sleeve or person in view. Keep all objects and every bright part of the light well inside the image, surrounded on all four edges by deep #11100e charcoal shadow. Landscape 16:9.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render.",
+    "source": "Resting work boots from the original Overture plate, with their shapes and position retained.",
+    "finishing": "Place boot pair on the same clean board plate. The historic pickup filename now denotes boots planted on the floor; the hand is out of frame."
+  },
+  {
+    "id": "prologue-idle-loop",
+    "path": "assets/ch00/video/prologue-idle-loop.mp4",
+    "aspect_ratio": "16:9",
+    "references": [
+      "relics-idle",
+      "relics-idle"
+    ],
+    "duration_s": 4,
+    "prompt": "KAIYA DNA: A grounded woman in her early thirties with watchful, intelligent dark eyes that have outgrown naivety. Unruly dark hair tucked into the collar of a weathered charcoal-wool field coat over faded work boots dusty from dry scrub grass. No gingham dress, no sparkling ruby slippers—her boots have worn leather soles with a faint, almost invisible thread of dull ochre metal stitched into the welt. Her expression carries quiet sovereignty—neither wide-eyed wonder nor theatrical heroics.\n\nLocked floor-level close-up, start and end on the identical supplied still. The empty leather boots, broken emerald-green spectacle frame and timber floorboards remain perfectly stationary. A few very fine golden-amber dust motes drift slowly across the low shaft of late-afternoon light at different depths. Only the free tip of the dried prairie stem stirs once in a slight draft, then settles. Long quiet stillness, subtle real-time movement, stable light, no hand, no flicker or camera motion. Deep #11100e perimeter shadows on all four edges. Silent seamless loop. Landscape 16:9.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render.",
+    "source": "Reuse the first Overture film as the motion reference.",
+    "finishing": "Use only the moving amber dust and the tiny anchored grass motion from that footage, over the new ruby-slipper poster. Preserve the emerald glasses and the floor."
+  },
+  {
+    "id": "prologue-step-out",
+    "path": "assets/ch00/video/prologue-step-out.mp4",
+    "aspect_ratio": "16:9",
+    "references": [
+      "relics-idle",
+      "relics-pickup"
+    ],
+    "duration_s": 8,
+    "motion_prompts": [
+      "KAIYA DNA: A grounded woman in her early thirties with watchful, intelligent dark eyes that have outgrown naivety. Unruly dark hair tucked into the collar of a weathered charcoal-wool field coat over faded work boots dusty from dry scrub grass. No gingham dress, no sparkling ruby slippers—her boots have worn leather soles with a faint, almost invisible thread of dull ochre metal stitched into the welt. Her expression carries quiet sovereignty—neither wide-eyed wonder nor theatrical heroics.\n\nStart on the supplied pair of weathered crimson ruby slippers on the right and the broken green glasses on the left. One adult woman's hand in a charcoal wool coat sleeve enters from upper right, curls her fingers firmly into the two slippers' heel openings together, lifts both ruby shoes with a deliberate, physically credible grip and carries them completely out of the top-right of frame. Show a short quiet beat of EMPTY FLOOR on the right. Do not touch the emerald glasses or grass at left: they stay visible, unmoved. No boots yet. Locked camera, sharp invariant wood grain, no melting, no morph, no dissolve, no changes in light. The ruby shoes in this shot are discarded stage props, never her wardrobe. #11100e perimeter.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render.",
+      "KAIYA DNA: A grounded woman in her early thirties with watchful, intelligent dark eyes that have outgrown naivety. Unruly dark hair tucked into the collar of a weathered charcoal-wool field coat over faded work boots dusty from dry scrub grass. No gingham dress, no sparkling ruby slippers—her boots have worn leather soles with a faint, almost invisible thread of dull ochre metal stitched into the welt. Her expression carries quiet sovereignty—neither wide-eyed wonder nor theatrical heroics.\n\nStart on the EMPTY right-hand patch of floor beside the cracked emerald spectacle frame and prairie grass. From above right, Kaiya's same single adult woman's hand in a charcoal-wool sleeve brings in TWO worn heavy leather boots held together by their collars. Lower them with weight until both soles contact the boards in their exact final reference positions. Fingers uncurl and the empty hand withdraws out of the top, leaving the boots standing on the wood. End on the supplied still. No red shoes in this half. The cracked green glasses must remain visible and unmoved the entire time. Absolutely fixed camera, board grain and lighting; the floor is a solid surface. No zoom, fade, dissolve or magic. Deep #11100e perimeter.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render."
+    ],
+    "reference_sequence": [
+      "ruby slippers and emerald glasses",
+      "same empty shoe footprint with emerald glasses",
+      "original resting leather boots with emerald glasses"
+    ],
+    "finishing": "Two filmed actions joined on an empty floor beat. Isolate the photographed footwear, hands and sleeves as moving foreground. Use a single stationary floor plate for every frame and modulate only soft contact shadows. Hold the final resting-boots poster.",
+    "hand_continuity": "Boot placement uses the same hand and cuff footage as the ruby-slipper pickup. Each hand is tracked to its boot opening, behind the front leather collar during contact, then withdraws after the soles are planted."
+  }
+]

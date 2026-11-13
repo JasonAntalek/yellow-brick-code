@@ -1,0 +1,14 @@
+CODE INSTANCE HANDOFF BLOCK
+Chapter 1 — Threshold I
+
+Exact relative file paths produced | Resolution & aspect ratio
+assets/ref/ferros-anchor.png | 1280 × 720, 16:9
+assets/ref/kaiya-anchor.png | 1280 × 720, 16:9
+assets/ch01/stills/ch01-curb-seam.png | 1280 × 720, 16:9
+assets/ch01/stills/ch01-ferros-idle-keyframe.png | 1280 × 720, 16:9
+assets/ch01/stills/ch01-ferros-lookup-keyframe.png | 1280 × 720, 16:9
+assets/ch01/video/ferros-idle-loop.mp4 | 1280 × 720, 16:9 | 4.000 s, loop, H.264, silent
+assets/ch01/video/ferros-look-up.mp4 | 1280 × 720, 16:9 | 3.000 s, play once and hold, H.264, silent
+
+Playback: At the mile-marker, loop the idle clip muted and inline. On Answer Ferros, play the look-up clip once; on ended, hold the gaze-locked PNG. For reduced motion, switch directly between the two PNGs.
+Both MP4 paths already match the video sources in index.html. Use ch01-curb-seam.png at the curb and keep the two anchor portraits as continuity references.

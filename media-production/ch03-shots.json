@@ -1,0 +1,77 @@
+[
+  {
+    "id": "vael-anchor",
+    "path": "assets/ref/vael-anchor.png",
+    "aspect_ratio": "16:9",
+    "references": [],
+    "duration_s": null,
+    "prompt": "VAEL DNA: A massive, ancient, battle-scarred lion of extraordinary solemn dignity and grounded physical mass. Not a bipedal cartoon lion in a costume and not a glossy fantasy CGI beast. Weathered tawny-ochre hide crossed with old healed scars; a heavy, windswept mane of dark tarnished bronze, charcoal-umbe, and wet cedar-brown. Deep, intelligent eyes of molten dark amber that hold fierce consciousness and restraint. Heavy iron-dark claws resting on damp ochre stone. Cold river mist clinging to his fur.\n\nCanonical portrait of Vael emerging from dark cedar shadow. A calm sovereign gaze. An adult quadruped at rest on damp stone, chest and head, mane weighted by river mist. Weathered short pale healed scar tracing his anatomical left brow, dark amber irises lit by small natural reflections. Low warm sidelight reveals his whiskers, fur and old scars. Deep #11100e perimeter darkness on all four edges. Landscape 16:9.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render."
+  },
+  {
+    "id": "timberline-mist",
+    "path": "assets/ch03/stills/ch03-timberline-mist.png",
+    "aspect_ratio": "16:9",
+    "references": [
+      "vael-anchor"
+    ],
+    "duration_s": null,
+    "prompt": "VAEL DNA: A massive, ancient, battle-scarred lion of extraordinary solemn dignity and grounded physical mass. Not a bipedal cartoon lion in a costume and not a glossy fantasy CGI beast. Weathered tawny-ochre hide crossed with old healed scars; a heavy, windswept mane of dark tarnished bronze, charcoal-umbe, and wet cedar-brown. Deep, intelligent eyes of molten dark amber that hold fierce consciousness and restraint. Heavy iron-dark claws resting on damp ochre stone. Cold river mist clinging to his fur.\n\nEdit the attached timberline establishing frame. Keep its brick road, wet ferns, black cedar trunks, ground fog, low camera, and four deep #11100e edges. Place a concealed lion at the RIGHT edge of the road in the dark treeline, about 78% from image left, 55% from top. Show just two individually discernible, dim reflected dark-amber glints separated by a few pixels, exactly at the upper edge of a heavy cedar-brown shoulder silhouette in the fog. This slight interruption in the outline of ferns should read as a large animal after a second look. Its head stays in shadow and its fine features remain obscure. Small background figure, no foreground animal. Landscape 16:9.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render.",
+    "composition_prompt": "VAEL DNA: A massive, ancient, battle-scarred lion of extraordinary solemn dignity and grounded physical mass. Not a bipedal cartoon lion in a costume and not a glossy fantasy CGI beast. Weathered tawny-ochre hide crossed with old healed scars; a heavy, windswept mane of dark tarnished bronze, charcoal-umbe, and wet cedar-brown. Deep, intelligent eyes of molten dark amber that hold fierce consciousness and restraint. Heavy iron-dark claws resting on damp ochre stone. Cold river mist clinging to his fur.\n\nLandscape establishing shot from a new camera on the road. Low-angle atmospheric view of a weathered ochre brick road narrowing between towering black cedar trunks and wet ferns at nightfall. Heavy low river fog drifts across the wet stone. The road, old brick joints, cedars and fern fronds are the subjects of this wide environmental composition. Vael is many yards back between the trees on the far right, sinking completely into cedar shadow: only two faint amber pinpricks and a barely discernible huge shoulder behind the mist. His face is concealed. His portrait is solely an identity guide. Muted light grazes the road. Deep #11100e vignette at all four edges. Landscape 16:9.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render.",
+    "edit_inputs": [
+      "previous composition",
+      "vael-anchor"
+    ]
+  },
+  {
+    "id": "vael-idle",
+    "path": "assets/ch03/stills/ch03-vael-idle-keyframe.png",
+    "aspect_ratio": "16:9",
+    "references": [
+      "vael-anchor"
+    ],
+    "duration_s": null,
+    "prompt": "VAEL DNA: A massive, ancient, battle-scarred lion of extraordinary solemn dignity and grounded physical mass. Not a bipedal cartoon lion in a costume and not a glossy fantasy CGI beast. Weathered tawny-ochre hide crossed with old healed scars; a heavy, windswept mane of dark tarnished bronze, charcoal-umbe, and wet cedar-brown. Deep, intelligent eyes of molten dark amber that hold fierce consciousness and restraint. Heavy iron-dark claws resting on damp ochre stone. Cold river mist clinging to his fur.\n\nPose edit to the attached stage image. Vael lowers his head a further 30 degrees at the neck; the nose should be just a few inches above his resting forepaws. His eyes are half closed and point at the ochre stone immediately between his paws. Show the top of the brow and more of the crown and mane than of the chin, a visibly bowed three-quarter silhouette. His muzzle turns slightly aside, warm breath curling from it. Keep the resting paws planted, same framing and scale and lighting; preserve the empty deep #11100e left third and four dark edges. Stage Vael in the right two-thirds. Landscape 16:9.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render.",
+    "composition_prompt": "VAEL DNA: A massive, ancient, battle-scarred lion of extraordinary solemn dignity and grounded physical mass. Not a bipedal cartoon lion in a costume and not a glossy fantasy CGI beast. Weathered tawny-ochre hide crossed with old healed scars; a heavy, windswept mane of dark tarnished bronze, charcoal-umbe, and wet cedar-brown. Deep, intelligent eyes of molten dark amber that hold fierce consciousness and restraint. Heavy iron-dark claws resting on damp ochre stone. Cold river mist clinging to his fur.\n\nReframe the reference as the opening motion plate. Locked medium close-up at eye level, Vael's massive head, shoulders and upper chest entirely in the right two-thirds, his face near the right third intersection. The left third is clean deep #11100e negative space for a text overlay. Show him in a distinctly bowed three-quarter pose: chin lowered toward his chest, muzzle angled a little away from the lens toward the mist, hooded amber eyes looking DOWN at the damp stone. Warm breath condenses below his muzzle. A trace of fur caught on the old healed brow scar. Quiet restraint and physical gravity. Matching cedar side light and damp bronze mane from the portrait. Deep #11100e perimeter all the way around. Landscape 16:9.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render.",
+    "edit_inputs": [
+      "previous composition",
+      "vael-anchor"
+    ]
+  },
+  {
+    "id": "vael-lookup",
+    "path": "assets/ch03/stills/ch03-vael-lookup-keyframe.png",
+    "aspect_ratio": "16:9",
+    "references": [
+      "vael-idle"
+    ],
+    "duration_s": null,
+    "prompt": "VAEL DNA: A massive, ancient, battle-scarred lion of extraordinary solemn dignity and grounded physical mass. Not a bipedal cartoon lion in a costume and not a glossy fantasy CGI beast. Weathered tawny-ochre hide crossed with old healed scars; a heavy, windswept mane of dark tarnished bronze, charcoal-umbe, and wet cedar-brown. Deep, intelligent eyes of molten dark amber that hold fierce consciousness and restraint. Heavy iron-dark claws resting on damp ochre stone. Cold river mist clinging to his fur.\n\nFinal eye-contact endpoint. The first attached image is the already forward-facing face study, the second the bowed start for position matching. Make one anatomical change to the first: Vael extends his neck and lifts the whole head dramatically higher over his planted forepaws. Chin clearly clear of the paws; a broad plane of his dark chest becomes visible between chin and paws. Raise his muzzle to eye level with the lens and hold both open dark-amber eyes looking directly at the viewer. Quiet recognition, closed mouth, exhale has ended. Crop the top of the mane as needed in this medium close-up instead of moving the camera. Keep his body on the right two-thirds, paws anchored to the exactly same spots, same lens, same camera angle, same tonal range as the attached keyframe. Left third in empty deep #11100e shade and dark perimeter on all sides. Landscape 16:9.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render.",
+    "composition_prompt": "VAEL DNA: A massive, ancient, battle-scarred lion of extraordinary solemn dignity and grounded physical mass. Not a bipedal cartoon lion in a costume and not a glossy fantasy CGI beast. Weathered tawny-ochre hide crossed with old healed scars; a heavy, windswept mane of dark tarnished bronze, charcoal-umbe, and wet cedar-brown. Deep, intelligent eyes of molten dark amber that hold fierce consciousness and restraint. Heavy iron-dark claws resting on damp ochre stone. Cold river mist clinging to his fur.\n\nEdit the attached idle keyframe for the final frame of the same locked shot. Preserve lens, camera height, angle, framing, shoulder position, lighting, dark cedar background, all four #11100e edges and clean deep shadow on the left for text. Keep Vael in the right two-thirds. His exhale has ended. He has lifted his heavy head to a level, face-on position over his own chest, and both clear, blazing dark-amber eyes now lock directly into the camera in quiet sovereign recognition. Eyes are naturally reflective, pupils dark. The same brow scar, muzzle markings and damp bronze mane. No lateral recentering of his body. Landscape 16:9.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render.",
+    "edit_inputs": [
+      "previous composition",
+      "vael-idle"
+    ]
+  },
+  {
+    "id": "vael-idle-loop",
+    "path": "assets/ch03/video/vael-idle-loop.mp4",
+    "aspect_ratio": "16:9",
+    "references": [
+      "vael-idle",
+      "vael-idle"
+    ],
+    "duration_s": 10,
+    "prompt": "VAEL DNA: A massive, ancient, battle-scarred lion of extraordinary solemn dignity and grounded physical mass. Not a bipedal cartoon lion in a costume and not a glossy fantasy CGI beast. Weathered tawny-ochre hide crossed with old healed scars; a heavy, windswept mane of dark tarnished bronze, charcoal-umbe, and wet cedar-brown. Deep, intelligent eyes of molten dark amber that hold fierce consciousness and restraint. Heavy iron-dark claws resting on damp ochre stone. Cold river mist clinging to his fur.\n\nTen-second locked-off natural-history observation at normal speed. Vael rests quietly on the stone, settled into the supplied pose, forepaws planted, head bowed, eyes lowered. Long, irregular stretches of stillness. A couple of seconds in, just one rounded ear pivots slightly outward toward a distant sound, then eases back. Several seconds later a tiny adjustment of the neck stirs a few tufts along the outside of the heavy mane; the strands follow, then settle. His face, paws and body stay in place. Mouth closed. Breathing is almost imperceptible. The air at the muzzle is clear throughout: no visible breath, puffs, steam, smoke or passing wisps. All distant haze is static. No head shake, bobbing, eye contact, camera movement, zoom, cuts or changes in exposure. Keep all four deep #11100e perimeter shadows and the clean left-hand text area fixed. End on the original resting pose. Ten seconds, silent seamless loop. Landscape 16:9.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render."
+  },
+  {
+    "id": "vael-look-up",
+    "path": "assets/ch03/video/vael-look-up.mp4",
+    "aspect_ratio": "16:9",
+    "references": [
+      "vael-idle",
+      "vael-lookup"
+    ],
+    "duration_s": 3,
+    "prompt": "VAEL DNA: A massive, ancient, battle-scarred lion of extraordinary solemn dignity and grounded physical mass. Not a bipedal cartoon lion in a costume and not a glossy fantasy CGI beast. Weathered tawny-ochre hide crossed with old healed scars; a heavy, windswept mane of dark tarnished bronze, charcoal-umbe, and wet cedar-brown. Deep, intelligent eyes of molten dark amber that hold fierce consciousness and restraint. Heavy iron-dark claws resting on damp ochre stone. Cold river mist clinging to his fur.\n\nBegin on the first attached bowed keyframe, finish on the second attached eye-contact keyframe. Vael stops exhaling mist. In one measured continuous movement he lifts his heavy muzzle from its lowered three-quarter pose, turning it to level, front-facing eye contact. Molten dark-amber eyes meet the camera with quiet recognition. His mane settles under its own weight. Finish the lift before the final beat and hold completely still on the given final gaze. Camera, shoulders, scale, light, cedar background, and the left text space remain fixed. Preserve deep #11100e perimeter shadows. Silent one-shot. Landscape 16:9.\n\ncinematic chiaroscuro lighting, emerging from deep warm charcoal darkness (#12100e) around the edges, tactile weathered textures, shot on 65mm film, 85mm lens f/1.8, subtle film grain, dark editorial realism, no cartoon, no glossy 3D render."
+  }
+]
